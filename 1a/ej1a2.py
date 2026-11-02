@@ -42,7 +42,6 @@ Exemple:
      30
 
 '''
-
 def sum_odd_numbers(list_numbers):
     suma = 0
     for numero in list_numbers:
